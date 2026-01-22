@@ -1,0 +1,10 @@
+*   f88b741 (HEAD -> main, origin/main, origin/HEAD) Merge branch 'main' of https://github.com/saddam017/chem169-git
+|\  
+| * b73f18a praharshitha is commiting
+* | 1d48f0f B: add a different line to notes
+|/  
+* 470e23e Update notes.txt
+* 46a9bd3 Add notes file
+* 1969703 Update README.md
+* 664d72f added first log entry
+* 1a97d00 Initial commit

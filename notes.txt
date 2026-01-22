@@ -1,4 +1,9 @@
 Hello from Google Colab!
 Hello from chem169
+<<<<<<< HEAD
 ocean beach
 change by Saddam
+=======
+
+Praharshitha is making a change to the file.
+>>>>>>> b73f18ae3872270d5dca6abb28f42ea480028dc9
